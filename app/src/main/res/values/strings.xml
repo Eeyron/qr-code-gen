@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My QR Code</string>
+    <string name="permission_title">sample permission</string>
+    <string name="write_permission_request">sample request permision</string>
+</resources>
